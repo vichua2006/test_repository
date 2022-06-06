@@ -1,5 +1,8 @@
-import sys
-data = sys.stdin.read().strip().split('\n')
+
+
+for i in range(10):
+  print(i)
+
 
 # etc
 # add more for testing...
